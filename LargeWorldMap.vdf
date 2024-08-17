@@ -1,0 +1,11 @@
+"workshopitem"
+{
+    "appid"                 "1206560"
+    "publishedfileid"       "0"
+    "contentfolder"         "C:\Coding\Other_Coding_Projects\WorldBox_LargeWorldMod"
+    "previewfile"           "C:\Coding\Other_Coding_Projects\WorldBox_LargeWorldMod\icon.png"
+    "visibility"            "2"
+    "title"                 "LargeWorldMod"
+    "description"           "Adds the option to generate larger worlds."
+    "changenote"            "initial release"
+}

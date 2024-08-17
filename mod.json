@@ -1,0 +1,10 @@
+{
+    "name": "LargeWorldMod",
+    "author": "Vincent van Hoven",
+    "version": "1.0.0",
+    "description": "Adds the option to generate larger worlds.",
+    "iconPath": "icon_padding.png",
+    "Dependencies": [],
+    "OptionalDependencies": [],
+    "IncompatibleWith": []
+}
