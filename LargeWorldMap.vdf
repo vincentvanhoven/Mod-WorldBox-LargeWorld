@@ -1,11 +1,15 @@
 "workshopitem"
 {
 	"appid"				"1206560"
-	"publishedfileid"	"3310814771"
+	"publishedfileid"	"3316441821"
 	"contentfolder"		"C:\Coding\Other_Coding_Projects\SteamWorkshopMods\Mod-Publish-Dir"
 	"previewfile"		"C:\Coding\Other_Coding_Projects\SteamWorkshopMods\Mod-Publish-Dir\icon.png"
 	"visibility"		"0"
 	"title"				"LargeWorldMod"
 	"description"		"Adds the option to generate larger worlds."
-	"changenote"		"[ADD] 'Mod' tag (third attempt)."
+	"changenote"		"[ADD] LeoCapri-less size!"
 }
+
+
+If you like this mod, maybe check out the map I created that features large empires ruled by modded kings (max stats):
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3322400704]Immortal Empires[/url]
